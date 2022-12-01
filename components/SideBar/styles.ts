@@ -5,9 +5,9 @@ export const Container = tw.div<any>`
 
   top-0
   left-0
-  w-28
+  w-60
   h-screen
-  bg-red-500
+  bg-[#F3CBC1]
 
   flex
   justify-center

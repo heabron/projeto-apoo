@@ -1,11 +1,10 @@
 import tw from "tailwind-styled-components";
 
 export const Container = tw.div<any>`
-  w-full
-  h-20
-  bg-[#D35945]
+w-[120px]
+h-[90px]
 
-  flex
-  justify-center
-  items-center
+flex
+justify-center
+items-center
 `;
